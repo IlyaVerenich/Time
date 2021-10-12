@@ -37,4 +37,3 @@ window.onload=function(){
         document.getElementById("date").innerHTML=fullDate;
     })
 }
-    
